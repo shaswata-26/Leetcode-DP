@@ -25,7 +25,4 @@ class Permutations:
         return result_list
 
 
-# Example usage:
-nums = [1, 2, 3]
-permutations = Permutations().permute(nums)
-print(permutations)
+
